@@ -1,0 +1,140 @@
+*
+{ margin: 0;
+  padding: 0;
+}
+
+
+
+li
+{
+	list-style-type: none;
+
+}
+a
+{
+	 text-decoration: none;
+
+}
+
+nav ul li a 
+{ color:white;
+ text-transform: uppercase;
+
+}
+nav ul li {
+	display: inline-block;
+	margin-right: 100px;
+
+}		
+
+nav ul 
+{ text-align: center;
+  
+}
+nav
+{ background-color: darkblue;
+  height: 60px;
+  padding-top: 15px;
+}
+nav ul li a:hover 
+{
+		background-color: olivedrab;
+		height:50px;
+}
+
+
+#fondGris
+{
+	background-color: #dcdcdc;
+	height: 40px;
+}
+
+h1{
+	margin-top: 30px;
+	text-align: center;
+	font-family: algerian;
+}
+
+.lune 
+		{background-color: orangered;
+			width: 200px;
+			text-align: center;
+			font-size: 20px;
+}			
+
+
+
+
+
+
+.categoriesLigne
+					{padding-top: 10px;
+
+}
+.carre div p
+  { padding-top: 10px;
+}
+
+#boutique
+		{ width: 50%;
+
+}
+
+#boutique div   
+{
+	display: table-cell;
+	margin-right: 30px;
+	margin-left: 30px;
+	margin-top: 20px;
+background: white;
+	vertical-align: middle;
+	text-align: center;
+	padding: 50px;
+	width: 15%;
+	border-left: 10px solid white;
+	border-right: 10px solid white;
+}
+
+
+.categoriesLigne
+{ display: flex;
+	justify-content: space-between;
+	margin-right: 30px;
+	margin-left: 30px;
+	margin-top: 20px;
+
+}
+.carre
+{
+	background-color:#E5E7E9 ;
+	border: 1px;
+  width: 250px;
+  height: 200px;
+  text-align: left;
+  padding-left:10px;
+
+}
+
+
+.tout
+		{ 
+			float: left;
+			padding-top: 50px;
+			color: orangered;
+}
+
+#fontblue
+{ background-color:dodgerblue;
+	height: 70px;
+	clear: both;
+  width: 100%;
+  margin-top: 30px;
+}
+
+
+#fontfonce
+{ background-color: darkblue;
+	height: 100px;
+clear: both;
+width: 100%;
+}
